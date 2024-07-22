@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "大和言葉辞典",
+    "theme": "テーマ",
+    "theme_light": "ライト",
+    "theme_dark": "ダーク",
+    "theme_system": "システム",
+    "language": "言語",
+    "language_en": "en",
+    "language_ja": "ja",
+    "language_ya": "ya"
+  },
+  "toppage": {
+    "title": "大和言葉辞典"
+  },
+  "search": {
+    "label": "検索",
+    "placeholder": "検索する言葉を入力...",
+    "search": "検索する",
+    "range": "検索範囲",
+    "range_ya": "大和言葉",
+    "range_ja": "現代の日本語",
+    "range_each": "両方",
+    "range_all": "解説含め全て",
+    "type": "検索方法",
+    "type_prefix": "前方一致",
+    "type_partial": "部分一致",
+    "type_suffix": "後方一致",
+    "type_exact": "完全一致",
+    "type_regex": "正規表現"
+  },
+  "footer": {
+    "title": "大和言葉辞典",
+    "license": "ライセンス",
+    "contact": "お問い合わせ",
+    "copy": "© 2024 大和言葉辞典."
+  }
+}

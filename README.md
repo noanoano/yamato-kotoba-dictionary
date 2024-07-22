@@ -1,2 +1,11 @@
-# yamato-kotoba-dictionary
-This is a web application of the Yamato Kotoba (Japanese native word) dictionary.
+# 大和言葉辞典 (Yamato Kotoba Dictionary)
+
+## 概要
+日本語の固有語である大和言葉を集めた辞典サイトです。
+
+
+## 大和言葉について
+日本語において、漢語と外来語（合わせて借用語という）が導入される前の言葉。
+
+漢字が日本で普及する上代以前の語の場合、訓読みと扱われ判別が難しいため、漢語の可能性を注記した上で掲載する方針。
+また、語源が不明な語についても同様。

@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "大和言葉引き",
+    "theme": "見た目",
+    "theme_light": "明るい",
+    "theme_dark": "暗い",
+    "theme_system": "仕組",
+    "language": "言葉",
+    "language_en": "en",
+    "language_ja": "ja",
+    "language_ya": "ya"
+  },
+  "toppage": {
+    "title": "大和言葉引き"
+  },
+  "search": {
+    "label": "調べる",
+    "placeholder": "調べる言葉を入れる...",
+    "search": "調べる",
+    "range": "調べる所",
+    "range_ya": "大和言葉",
+    "range_ja": "今の御国言葉",
+    "range_each": "諸向き",
+    "range_all": "解き聞せ含め全て",
+    "type": "探し方",
+    "type_prefix": "前から",
+    "type_partial": "含む",
+    "type_suffix": "後から",
+    "type_exact": "全て等しい",
+    "type_regex": "現正し"
+  },
+  "footer": {
+    "title": "大和言葉引き",
+    "license": "許し",
+    "contact": "お問い合わせ",
+    "copy": "© 2024 大和言葉引き."
+  }
+}

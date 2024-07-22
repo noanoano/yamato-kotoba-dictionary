@@ -1,0 +1,38 @@
+{
+  "header": {
+    "title": "Yamato Kotoba Dictionary",
+    "theme": "Theme",
+    "theme_light": "Light",
+    "theme_dark": "Dark",
+    "theme_system": "System",
+    "language": "Language",
+    "language_en": "en",
+    "language_ja": "ja",
+    "language_ya": "ya"
+  },
+  "toppage": {
+    "title": "YAMATO KOTOBA DICTIONARY"
+  },
+  "search": {
+    "label": "Search",
+    "placeholder": "Enter the word to search...",
+    "search": "Search",
+    "range": "Search Range",
+    "range_ya": "Yamato Kotoba",
+    "range_ja": "Modern Japanese",
+    "range_each": "Both",
+    "range_all": "All including explanations",
+    "type": "Search Method",
+    "type_prefix": "Prefix Match",
+    "type_partial": "Partial Match",
+    "type_suffix": "Suffix Match",
+    "type_exact": "Exact Match",
+    "type_regex": "Regular Expression"
+  },
+  "footer": {
+    "title": "Yamato Kotoba Dictionary",
+    "license": "License",
+    "contact": "Contact",
+    "copy": "© 2024 Yamato Kotoba Dictionary."
+  }
+}
